@@ -1,0 +1,6 @@
+[submodule "child_hello_word"]
+	path = child_hello_word
+	url = git@github.com:lzlxyc/child_hello_word.git
+[submodule "child2"]
+	path = child2
+	url = git@github.com:lzlxyc/child2.git
